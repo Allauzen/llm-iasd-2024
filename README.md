@@ -2,7 +2,8 @@ Course on LLM for MASH and IASD masters @ PSL
 
 # Schedules 
 
-Homework 1 : Deadline 8/10 (before the begining of the course)
+**Homework 1 : Deadline 8/10** (before the begining of the course)
+
 Homework 2 : Deadline 15/10 (before the begining of the course)
 
 
