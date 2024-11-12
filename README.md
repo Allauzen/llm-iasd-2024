@@ -18,4 +18,9 @@ Homework 2 : Deadline 15/10 (before the begining of the course)
 - 10/12 Readings defense 
 - 17/12 Exam
 
+# Project
 
+Projects: https://docs.google.com/document/d/1kK-RPemxIgjQJbHWXJ7eyA-ZVLz4vaIO/edit?usp=sharing&ouid=115830264954969453963&rtpof=true&sd=true
+
+# Exam
+The exam will take place on 17/12 or 10/12. It will be a 1 or 2 hours MCQ exam about a research paper.
