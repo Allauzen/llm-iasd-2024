@@ -10,11 +10,12 @@ Homework 2 : Deadline 15/10 (before the begining of the course)
 - 01/10 Cours 1 : Intro and text classification + First HW1
 - 08/10 Cours 2 : Attention and transformer + HW2
 - 15/10 TP1 : Attention from scratch 
-- 22/10 Cours : Transformers everywhere 
-- 05/11 TP2
-- 12/11 Cours : Zoo 
-- 19/11 TP3
-- 03/12 Advanced LLM 
+- 22/10 Cours : Transformers and pre-training
+- 05/11 TP2: GPT from scratch
+- 12/11 TP3 : GPT from scratch part 2 + BERT for classification
+- 19/11 Cours : Using pre-trained models + evaluation
+- 26/11 No course (PSL Weeks)
+- 03/12 Advanced LLM scaling + chat
 - 10/12 Readings defense 
 - 17/12 Exam
 
