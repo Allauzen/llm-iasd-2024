@@ -23,6 +23,7 @@ Homework 2 : Deadline 15/10 (before the begining of the course)
 - Projects: https://docs.google.com/document/d/1kK-RPemxIgjQJbHWXJ7eyA-ZVLz4vaIO/edit?usp=sharing&ouid=115830264954969453963&rtpof=true&sd=true
 - Project submission link: https://forms.gle/rA5EA1Y8ZWpUW5E28 (submission deadline: 9/12 23h59).
 - Project defense schedule on 10/12: https://docs.google.com/spreadsheets/d/1fWOmwPvFlB2XjUdXMWXdqGV12wwwC4EUhzunAjfrwzQ/edit?usp=sharing
+- 10 min presentation / 5 min questions.
 
 # Exam
 - The exam will take place on 17/12. It will be a 2 hours exam about a research paper and the course content.
@@ -35,5 +36,5 @@ Homework 2 : Deadline 15/10 (before the begining of the course)
 - 2 pages (recto-verso) of handwritten notes.
 - No article during the exam.
 - If a question is about a specific point of the article, it will be reminded in the exam subject.
-- 10 min presentation / 5 min questions.
+- **NO MCQ** anymore. Sorry for the confusion.
 
