@@ -28,7 +28,7 @@ Homework 2 : Deadline 15/10 (before the begining of the course)
 
 # Exam
 - The exam will take place on 17/12. It will be a 2 hours exam about a research paper and the course content.
-- Article: link available on 10/12 at 18h00.
+- Article: [ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators](https://arxiv.org/abs/2003.10555)
 
 ### Information
 - Date: 17/12
